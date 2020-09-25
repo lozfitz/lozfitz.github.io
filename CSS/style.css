@@ -1,0 +1,31 @@
+.profileimage{
+	width: 100%; 
+
+}
+
+.flex-vert-center{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.floaty-text{
+	position: absolute;
+	margin: 0;
+}
+
+h4{
+	color: white;
+}
+
+
+
+#particles-js{
+	background-color: white;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
